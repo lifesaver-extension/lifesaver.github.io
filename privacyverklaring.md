@@ -4,7 +4,7 @@ Laatst bijgewerkt: 30 oktober 2026
 
 Lifesaver is een browserextensie die prijzen op websites omrekent naar de tijd die je moet werken om dat bedrag te verdienen.
 
-**Verantwoordelijke:** [JOUW NAAM OF TEAMNAAM] · [JOUW E-MAILADRES]
+**Verantwoordelijke:** Lifesaver · lifesaver-extension@gmail.com
 
 ## Welke gegevens gebruikt Lifesaver?
 - **Wat je zelf invoert:** je inkomen (per uur, week, maand of jaar), je werkuren per week, de eenheid waarin je prijzen wilt zien (uren, dagen, maanden of jaren) en of Lifesaver aan of uit staat.
@@ -21,7 +21,7 @@ Je gegevens blijven op je apparaat totdat je ze wijzigt of de extensie verwijder
 - **Toegang tot websites (http/https):** om prijzen op elke webwinkel te kunnen herkennen en omrekenen. De paginatekst wordt alleen lokaal verwerkt.
 
 ## Contact
-Vragen? Mail naar [JOUW E-MAILADRES].
+Vragen? Mail naar lifesaver-extension@gmail.com
 
 ---
 
@@ -31,7 +31,7 @@ Last updated: 30 October 2026
 
 Lifesaver is a browser extension that converts prices on web pages into the working time needed to earn that amount.
 
-**Controller:** [YOUR NAME OR TEAM] · [YOUR EMAIL]
+**Controller:** Lifesaver· lifesaver-extension@gmail.com
 
 **Data used:** the income, weekly working hours, display unit and on/off setting you enter, and the text of web pages you visit (read locally to detect prices).
 
@@ -41,4 +41,4 @@ Lifesaver is a browser extension that converts prices on web pages into the work
 
 **Permissions:** "storage" to remember your settings; access to http/https pages to detect and convert prices on any web shop (processed locally only).
 
-**Contact:** [YOUR EMAIL]
+**Contact:** lifesaver-extension@gmail.com
